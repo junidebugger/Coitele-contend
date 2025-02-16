@@ -1,0 +1,7 @@
+.App {
+  width: 100%;
+  height: 100vh;
+  background: #947d69;
+  overflow: hidden;
+  display: flex;
+}
